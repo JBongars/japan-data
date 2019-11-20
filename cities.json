@@ -1,0 +1,118 @@
+[
+  {
+    "city": "Nagoya",
+    "coordinates": "35.183334,136.899994"
+  },
+  {
+    "city": "Kitakyushu",
+    "coordinates": "33.883331,130.883331"
+  },
+  {
+    "city": "Sendai",
+    "coordinates": "38.268223,140.869415"
+  },
+  {
+    "city": "Hiroshima",
+    "coordinates": "34.383331,132.449997"
+  },
+  {
+    "city": "Kawasaki",
+    "coordinates": "35.516666,139.699997"
+  },
+  {
+    "city": "Kyoto",
+    "coordinates": "35.011665,135.768326"
+  },
+  {
+    "city": "Kobe",
+    "coordinates": "34.689999,135.195557"
+  },
+  {
+    "city": "Fukuoka",
+    "coordinates": "33.583332,130.399994"
+  },
+  {
+    "city": "Sapporo",
+    "coordinates": "43.066666,141.350006"
+  },
+  {
+    "city": "Osaka",
+    "coordinates": "34.669529,135.497009"
+  },
+  {
+    "city": "Yatsushiro",
+    "coordinates": "32.535366,130.598663"
+  },
+  {
+    "city": "Higashimatsuyama",
+    "coordinates": "36.042126,139.399963"
+  },
+  {
+    "city": "Nagasaki",
+    "coordinates": "32.764233,129.872696"
+  },
+  {
+    "city": "Takarazuka",
+    "coordinates": "34.815723,135.361099"
+  },
+  {
+    "city": "Mishima",
+    "coordinates": "35.120342,138.918198"
+  },
+  {
+    "city": "Odawara",
+    "coordinates": "35.271053,139.166321"
+  },
+  {
+    "city": "Matsumoto",
+    "coordinates": "36.237148,137.964951"
+  },
+  {
+    "city": "Ginowan",
+    "coordinates": "26.281574,127.778633"
+  },
+  {
+    "city": "Toda",
+    "coordinates": "35.817616,139.677887"
+  },
+  {
+    "city": "Funabashi",
+    "coordinates": "35.694706,139.982620"
+  },
+  {
+    "city": "Ise",
+    "coordinates": "34.495380,136.706146"
+  },
+  {
+    "city": "Nagawa",
+    "coordinates": "36.255486,138.266418"
+  },
+  {
+    "city": "Tagajo",
+    "coordinates": "38.293839,141.004227"
+  },
+  {
+    "city": "Akita",
+    "coordinates": "39.720009,140.102570"
+  },
+  {
+    "city": "Tokyo",
+    "coordinates": "35.652832,139.839478"
+  },
+  {
+    "city": "Yokohama",
+    "coordinates": "35.443707,139.638031"
+  },
+  {
+    "city": "Obihiro",
+    "coordinates": "42.923901,143.196106"
+  },
+  {
+    "city": "Naha",
+    "coordinates": "26.212313,127.679153"
+  },
+  {
+    "city": "Kadena",
+    "coordinates": "26.359266,127.756744"
+  }
+]
