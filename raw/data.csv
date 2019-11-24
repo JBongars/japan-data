@@ -1,0 +1,377 @@
+Country,State,Gender,Age,Total Population
+Japan,Tōkyō-to,Female,Below 20,4049738.62
+Japan,Tōkyō-to,Female,20-40,2245164.80
+Japan,Tōkyō-to,Female,40-60,1809099.73
+Japan,Tōkyō-to,Female,Above 60,5138121.95
+Japan,Tōkyō-to,Male,Below 20,4755957.04
+Japan,Tōkyō-to,Male,20-40,1235519.65
+Japan,Tōkyō-to,Male,40-60,2447507.05
+Japan,Tōkyō-to,Male,Above 60,6119541.27
+Japan,Kanagawa-ken,Female,Below 20,4265639.24
+Japan,Kanagawa-ken,Female,20-40,1936635.45
+Japan,Kanagawa-ken,Female,40-60,4037326.97
+Japan,Kanagawa-ken,Female,Above 60,354327.51
+Japan,Kanagawa-ken,Male,Below 20,4102360.96
+Japan,Kanagawa-ken,Male,20-40,2960347.77
+Japan,Kanagawa-ken,Male,40-60,735674.68
+Japan,Kanagawa-ken,Male,Above 60,3895979.77
+Japan,Ōsaka-fu,Female,Below 20,3101047.76
+Japan,Ōsaka-fu,Female,20-40,675041.09
+Japan,Ōsaka-fu,Female,40-60,598309.87
+Japan,Ōsaka-fu,Female,Above 60,1430005.88
+Japan,Ōsaka-fu,Male,Below 20,4059650.09
+Japan,Ōsaka-fu,Male,20-40,914250.11
+Japan,Ōsaka-fu,Male,40-60,3614535.41
+Japan,Ōsaka-fu,Male,Above 60,2184379.88
+Japan,Aichi-ken,Female,Below 20,1682470.22
+Japan,Aichi-ken,Female,20-40,45717.37
+Japan,Aichi-ken,Female,40-60,3229115.37
+Japan,Aichi-ken,Female,Above 60,3600437.73
+Japan,Aichi-ken,Male,Below 20,1751835.82
+Japan,Aichi-ken,Male,20-40,3056291.29
+Japan,Aichi-ken,Male,40-60,2722545.37
+Japan,Aichi-ken,Male,Above 60,2375337.77
+Japan,Saitama-ken,Female,Below 20,512247.67
+Japan,Saitama-ken,Female,20-40,205610.93
+Japan,Saitama-ken,Female,40-60,855633.28
+Japan,Saitama-ken,Female,Above 60,3140418.34
+Japan,Saitama-ken,Male,Below 20,1675428.40
+Japan,Saitama-ken,Male,20-40,1511871.06
+Japan,Saitama-ken,Male,40-60,2463751.59
+Japan,Saitama-ken,Male,Above 60,1535760.46
+Japan,Chiba-ken,Female,Below 20,1795888.31
+Japan,Chiba-ken,Female,20-40,1169853.03
+Japan,Chiba-ken,Female,40-60,1914044.54
+Japan,Chiba-ken,Female,Above 60,1527151.61
+Japan,Chiba-ken,Male,Below 20,365021.73
+Japan,Chiba-ken,Male,20-40,1404672.20
+Japan,Chiba-ken,Male,40-60,310396.07
+Japan,Chiba-ken,Male,Above 60,737343.68
+Japan,Hyōgo-ken,Female,Below 20,206834.45
+Japan,Hyōgo-ken,Female,20-40,763669.88
+Japan,Hyōgo-ken,Female,40-60,564291.78
+Japan,Hyōgo-ken,Female,Above 60,1766208.78
+Japan,Hyōgo-ken,Male,Below 20,1920024.30
+Japan,Hyōgo-ken,Male,20-40,1205295.11
+Japan,Hyōgo-ken,Male,40-60,1280349.75
+Japan,Hyōgo-ken,Male,Above 60,1664498.47
+Japan,Hokkaido,Female,Below 20,477073.64
+Japan,Hokkaido,Female,20-40,1232940.16
+Japan,Hokkaido,Female,40-60,686632.69
+Japan,Hokkaido,Female,Above 60,1358896.92
+Japan,Hokkaido,Male,Below 20,894423.94
+Japan,Hokkaido,Male,20-40,873945.89
+Japan,Hokkaido,Male,40-60,2146142.84
+Japan,Hokkaido,Male,Above 60,1960660.82
+Japan,Fukuoka-ken,Female,Below 20,909554.07
+Japan,Fukuoka-ken,Female,20-40,84586.27
+Japan,Fukuoka-ken,Female,40-60,211574.00
+Japan,Fukuoka-ken,Female,Above 60,586006.05
+Japan,Fukuoka-ken,Male,Below 20,1205287.93
+Japan,Fukuoka-ken,Male,20-40,263588.42
+Japan,Fukuoka-ken,Male,40-60,287328.13
+Japan,Fukuoka-ken,Male,Above 60,170760.96
+Japan,Shizuoka-ken,Female,Below 20,1117695.82
+Japan,Shizuoka-ken,Female,20-40,1415307.02
+Japan,Shizuoka-ken,Female,40-60,1320035.55
+Japan,Shizuoka-ken,Female,Above 60,594403.16
+Japan,Shizuoka-ken,Male,Below 20,285553.17
+Japan,Shizuoka-ken,Male,20-40,1603784.19
+Japan,Shizuoka-ken,Male,40-60,162994.42
+Japan,Shizuoka-ken,Male,Above 60,861741.36
+Japan,Ibaraki-ken,Female,Below 20,1271290.16
+Japan,Ibaraki-ken,Female,20-40,945476.47
+Japan,Ibaraki-ken,Female,40-60,1375389.53
+Japan,Ibaraki-ken,Female,Above 60,954963.85
+Japan,Ibaraki-ken,Male,Below 20,1101551.70
+Japan,Ibaraki-ken,Male,20-40,523857.40
+Japan,Ibaraki-ken,Male,40-60,1125351.03
+Japan,Ibaraki-ken,Male,Above 60,687183.58
+Japan,Hiroshima-ken,Female,Below 20,363233.98
+Japan,Hiroshima-ken,Female,20-40,605369.82
+Japan,Hiroshima-ken,Female,40-60,227802.45
+Japan,Hiroshima-ken,Female,Above 60,870124.33
+Japan,Hiroshima-ken,Male,Below 20,818052.98
+Japan,Hiroshima-ken,Male,20-40,1094050.92
+Japan,Hiroshima-ken,Male,40-60,650729.47
+Japan,Hiroshima-ken,Male,Above 60,899500.33
+Japan,Kyōto-fu,Female,Below 20,1080507.72
+Japan,Kyōto-fu,Female,20-40,276495.75
+Japan,Kyōto-fu,Female,40-60,108961.86
+Japan,Kyōto-fu,Female,Above 60,393666.83
+Japan,Kyōto-fu,Male,Below 20,1081744.50
+Japan,Kyōto-fu,Male,20-40,586605.65
+Japan,Kyōto-fu,Male,40-60,941593.10
+Japan,Kyōto-fu,Male,Above 60,89678.73
+Japan,Niigata-ken,Female,Below 20,783839.04
+Japan,Niigata-ken,Female,20-40,339592.51
+Japan,Niigata-ken,Female,40-60,748537.84
+Japan,Niigata-ken,Female,Above 60,427112.00
+Japan,Niigata-ken,Male,Below 20,1049471.12
+Japan,Niigata-ken,Male,20-40,958116.95
+Japan,Niigata-ken,Male,40-60,1028341.95
+Japan,Niigata-ken,Male,Above 60,795429.39
+Japan,Miyagi-ken,Female,Below 20,950606.66
+Japan,Miyagi-ken,Female,20-40,930534.48
+Japan,Miyagi-ken,Female,40-60,87484.18
+Japan,Miyagi-ken,Female,Above 60,475401.69
+Japan,Miyagi-ken,Male,Below 20,653622.96
+Japan,Miyagi-ken,Male,20-40,149598.81
+Japan,Miyagi-ken,Male,40-60,337041.54
+Japan,Miyagi-ken,Male,Above 60,251424.31
+Japan,Nagano-ken,Female,Below 20,270976.95
+Japan,Nagano-ken,Female,20-40,935501.14
+Japan,Nagano-ken,Female,40-60,410651.09
+Japan,Nagano-ken,Female,Above 60,997963.75
+Japan,Nagano-ken,Male,Below 20,200105.17
+Japan,Nagano-ken,Male,20-40,940945.36
+Japan,Nagano-ken,Male,40-60,634034.33
+Japan,Nagano-ken,Male,Above 60,318988.98
+Japan,Gifu-ken,Female,Below 20,275433.05
+Japan,Gifu-ken,Female,20-40,937015.40
+Japan,Gifu-ken,Female,40-60,679766.49
+Japan,Gifu-ken,Female,Above 60,635783.84
+Japan,Gifu-ken,Male,Below 20,833421.41
+Japan,Gifu-ken,Male,20-40,141475.94
+Japan,Gifu-ken,Male,40-60,537503.63
+Japan,Gifu-ken,Male,Above 60,878207.22
+Japan,Gunma-ken,Female,Below 20,634322.61
+Japan,Gunma-ken,Female,20-40,498858.91
+Japan,Gunma-ken,Female,40-60,302062.73
+Japan,Gunma-ken,Female,Above 60,897513.78
+Japan,Gunma-ken,Male,Below 20,379761.98
+Japan,Gunma-ken,Male,20-40,525255.39
+Japan,Gunma-ken,Male,40-60,813652.39
+Japan,Gunma-ken,Male,Above 60,17046.65
+Japan,Tochigi-ken,Female,Below 20,467659.63
+Japan,Tochigi-ken,Female,20-40,559170.24
+Japan,Tochigi-ken,Female,40-60,768657.99
+Japan,Tochigi-ken,Female,Above 60,222707.47
+Japan,Tochigi-ken,Male,Below 20,902095.93
+Japan,Tochigi-ken,Male,20-40,641069.25
+Japan,Tochigi-ken,Male,40-60,99692.24
+Japan,Tochigi-ken,Male,Above 60,735310.31
+Japan,Fukushima-ken,Female,Below 20,519447.09
+Japan,Fukushima-ken,Female,20-40,316765.10
+Japan,Fukushima-ken,Female,40-60,320623.68
+Japan,Fukushima-ken,Female,Above 60,386577.41
+Japan,Fukushima-ken,Male,Below 20,764031.38
+Japan,Fukushima-ken,Male,20-40,254884.61
+Japan,Fukushima-ken,Male,40-60,52276.46
+Japan,Fukushima-ken,Male,Above 60,658122.94
+Japan,Okayama-ken,Female,Below 20,338335.70
+Japan,Okayama-ken,Female,20-40,951944.85
+Japan,Okayama-ken,Female,40-60,689832.12
+Japan,Okayama-ken,Female,Above 60,343148.45
+Japan,Okayama-ken,Male,Below 20,160322.43
+Japan,Okayama-ken,Male,20-40,19399.44
+Japan,Okayama-ken,Male,40-60,200468.67
+Japan,Okayama-ken,Male,Above 60,385299.00
+Japan,Mie-ken,Female,Below 20,691603.24
+Japan,Mie-ken,Female,20-40,131145.27
+Japan,Mie-ken,Female,40-60,801830.95
+Japan,Mie-ken,Female,Above 60,575252.68
+Japan,Mie-ken,Male,Below 20,826117.68
+Japan,Mie-ken,Male,20-40,661686.21
+Japan,Mie-ken,Male,40-60,400842.71
+Japan,Mie-ken,Male,Above 60,807930.02
+Japan,Kumamoto-ken,Female,Below 20,152071.98
+Japan,Kumamoto-ken,Female,20-40,154650.46
+Japan,Kumamoto-ken,Female,40-60,667186.66
+Japan,Kumamoto-ken,Female,Above 60,675231.59
+Japan,Kumamoto-ken,Male,Below 20,41553.57
+Japan,Kumamoto-ken,Male,20-40,824955.68
+Japan,Kumamoto-ken,Male,40-60,79939.75
+Japan,Kumamoto-ken,Male,Above 60,761227.71
+Japan,Kagoshima-ken,Female,Below 20,722973.31
+Japan,Kagoshima-ken,Female,20-40,687011.42
+Japan,Kagoshima-ken,Female,40-60,337983.46
+Japan,Kagoshima-ken,Female,Above 60,883903.20
+Japan,Kagoshima-ken,Male,Below 20,762176.51
+Japan,Kagoshima-ken,Male,20-40,190268.47
+Japan,Kagoshima-ken,Male,40-60,83005.59
+Japan,Kagoshima-ken,Male,Above 60,166081.46
+Japan,Yamaguchi-ken,Female,Below 20,177873.88
+Japan,Yamaguchi-ken,Female,20-40,483379.40
+Japan,Yamaguchi-ken,Female,40-60,345012.41
+Japan,Yamaguchi-ken,Female,Above 60,525863.25
+Japan,Yamaguchi-ken,Male,Below 20,41513.68
+Japan,Yamaguchi-ken,Male,20-40,320260.72
+Japan,Yamaguchi-ken,Male,40-60,174944.47
+Japan,Yamaguchi-ken,Male,Above 60,218204.75
+Japan,Ehime-ken,Female,Below 20,532246.73
+Japan,Ehime-ken,Female,20-40,434242.31
+Japan,Ehime-ken,Female,40-60,534835.78
+Japan,Ehime-ken,Female,Above 60,343807.53
+Japan,Ehime-ken,Male,Below 20,340172.62
+Japan,Ehime-ken,Male,20-40,368606.20
+Japan,Ehime-ken,Male,40-60,344261.73
+Japan,Ehime-ken,Male,Above 60,616099.79
+Japan,Nagasaki-ken,Female,Below 20,248211.69
+Japan,Nagasaki-ken,Female,20-40,616807.05
+Japan,Nagasaki-ken,Female,40-60,11331.68
+Japan,Nagasaki-ken,Female,Above 60,156050.65
+Japan,Nagasaki-ken,Male,Below 20,565881.92
+Japan,Nagasaki-ken,Male,20-40,567715.04
+Japan,Nagasaki-ken,Male,40-60,343351.36
+Japan,Nagasaki-ken,Male,Above 60,364358.35
+Japan,Shiga-ken,Female,Below 20,581445.57
+Japan,Shiga-ken,Female,20-40,464452.18
+Japan,Shiga-ken,Female,40-60,496250.33
+Japan,Shiga-ken,Female,Above 60,479512.57
+Japan,Shiga-ken,Male,Below 20,512048.40
+Japan,Shiga-ken,Male,20-40,7731.03
+Japan,Shiga-ken,Male,40-60,1289.41
+Japan,Shiga-ken,Male,Above 60,165779.48
+Japan,Okinawa-ken,Female,Below 20,15027.62
+Japan,Okinawa-ken,Female,20-40,466077.62
+Japan,Okinawa-ken,Female,40-60,278847.16
+Japan,Okinawa-ken,Female,Above 60,279485.62
+Japan,Okinawa-ken,Male,Below 20,668720.19
+Japan,Okinawa-ken,Male,20-40,500508.33
+Japan,Okinawa-ken,Male,40-60,254535.89
+Japan,Okinawa-ken,Male,Above 60,2461.08
+Japan,Nara-ken,Female,Below 20,353012.14
+Japan,Nara-ken,Female,20-40,481274.04
+Japan,Nara-ken,Female,40-60,275476.13
+Japan,Nara-ken,Female,Above 60,413009.79
+Japan,Nara-ken,Male,Below 20,176055.63
+Japan,Nara-ken,Male,20-40,133259.28
+Japan,Nara-ken,Male,40-60,274514.81
+Japan,Nara-ken,Male,Above 60,608026.80
+Japan,Aomori-ken,Female,Below 20,267725.80
+Japan,Aomori-ken,Female,20-40,346385.98
+Japan,Aomori-ken,Female,40-60,339353.04
+Japan,Aomori-ken,Female,Above 60,239609.67
+Japan,Aomori-ken,Male,Below 20,342610.63
+Japan,Aomori-ken,Male,20-40,239466.79
+Japan,Aomori-ken,Male,40-60,616696.48
+Japan,Aomori-ken,Male,Above 60,241353.13
+Japan,Iwate-ken,Female,Below 20,256661.74
+Japan,Iwate-ken,Female,20-40,602207.02
+Japan,Iwate-ken,Female,40-60,188862.57
+Japan,Iwate-ken,Female,Above 60,45745.12
+Japan,Iwate-ken,Male,Below 20,602694.16
+Japan,Iwate-ken,Male,20-40,101999.76
+Japan,Iwate-ken,Male,40-60,302056.77
+Japan,Iwate-ken,Male,Above 60,6443.08
+Japan,Ōita-ken,Female,Below 20,34736.02
+Japan,Ōita-ken,Female,20-40,583919.08
+Japan,Ōita-ken,Female,40-60,84320.76
+Japan,Ōita-ken,Female,Above 60,594653.54
+Japan,Ōita-ken,Male,Below 20,462198.63
+Japan,Ōita-ken,Male,20-40,351056.77
+Japan,Ōita-ken,Male,40-60,168222.95
+Japan,Ōita-ken,Male,Above 60,196587.21
+Japan,Ishikawa-ken,Female,Below 20,277533.24
+Japan,Ishikawa-ken,Female,20-40,197866.97
+Japan,Ishikawa-ken,Female,40-60,443512.20
+Japan,Ishikawa-ken,Female,Above 60,136396.14
+Japan,Ishikawa-ken,Male,Below 20,318794.83
+Japan,Ishikawa-ken,Male,20-40,196374.23
+Japan,Ishikawa-ken,Male,40-60,341759.39
+Japan,Ishikawa-ken,Male,Above 60,348733.44
+Japan,Yamagata-ken,Female,Below 20,120183.69
+Japan,Yamagata-ken,Female,20-40,590696.22
+Japan,Yamagata-ken,Female,40-60,83481.90
+Japan,Yamagata-ken,Female,Above 60,122030.82
+Japan,Yamagata-ken,Male,Below 20,77124.15
+Japan,Yamagata-ken,Male,20-40,322847.04
+Japan,Yamagata-ken,Male,40-60,303080.09
+Japan,Yamagata-ken,Male,Above 60,143018.94
+Japan,Miyazaki-ken,Female,Below 20,38568.51
+Japan,Miyazaki-ken,Female,20-40,189578.61
+Japan,Miyazaki-ken,Female,40-60,327825.65
+Japan,Miyazaki-ken,Female,Above 60,53046.46
+Japan,Miyazaki-ken,Male,Below 20,164990.66
+Japan,Miyazaki-ken,Male,20-40,137380.44
+Japan,Miyazaki-ken,Male,40-60,130326.23
+Japan,Miyazaki-ken,Male,Above 60,461927.16
+Japan,Toyama-ken,Female,Below 20,524310.31
+Japan,Toyama-ken,Female,20-40,305139.41
+Japan,Toyama-ken,Female,40-60,16801.47
+Japan,Toyama-ken,Female,Above 60,243062.47
+Japan,Toyama-ken,Male,Below 20,173791.14
+Japan,Toyama-ken,Male,20-40,506241.75
+Japan,Toyama-ken,Male,40-60,11981.14
+Japan,Toyama-ken,Male,Above 60,312295.69
+Japan,Akita-ken,Female,Below 20,147048.30
+Japan,Akita-ken,Female,20-40,200754.40
+Japan,Akita-ken,Female,40-60,302225.62
+Japan,Akita-ken,Female,Above 60,239129.90
+Japan,Akita-ken,Male,Below 20,244847.03
+Japan,Akita-ken,Male,20-40,293240.88
+Japan,Akita-ken,Male,40-60,435651.87
+Japan,Akita-ken,Male,Above 60,144201.72
+Japan,Wakayama-ken,Female,Below 20,503463.30
+Japan,Wakayama-ken,Female,20-40,253078.27
+Japan,Wakayama-ken,Female,40-60,348386.43
+Japan,Wakayama-ken,Female,Above 60,405824.16
+Japan,Wakayama-ken,Male,Below 20,425569.01
+Japan,Wakayama-ken,Male,20-40,17389.12
+Japan,Wakayama-ken,Male,40-60,290969.97
+Japan,Wakayama-ken,Male,Above 60,135557.10
+Japan,Kagawa-ken,Female,Below 20,225011.51
+Japan,Kagawa-ken,Female,20-40,286883.30
+Japan,Kagawa-ken,Female,40-60,462701.89
+Japan,Kagawa-ken,Female,Above 60,342497.89
+Japan,Kagawa-ken,Male,Below 20,298867.87
+Japan,Kagawa-ken,Male,20-40,434114.50
+Japan,Kagawa-ken,Male,40-60,137336.47
+Japan,Kagawa-ken,Male,Above 60,134733.74
+Japan,Yamanashi-ken,Female,Below 20,299645.52
+Japan,Yamanashi-ken,Female,20-40,174634.53
+Japan,Yamanashi-ken,Female,40-60,261393.95
+Japan,Yamanashi-ken,Female,Above 60,251794.91
+Japan,Yamanashi-ken,Male,Below 20,249137.91
+Japan,Yamanashi-ken,Male,20-40,128094.80
+Japan,Yamanashi-ken,Male,40-60,401524.89
+Japan,Yamanashi-ken,Male,Above 60,239946.40
+Japan,Saga-ken,Female,Below 20,247587.71
+Japan,Saga-ken,Female,20-40,422212.97
+Japan,Saga-ken,Female,40-60,355308.38
+Japan,Saga-ken,Female,Above 60,407513.73
+Japan,Saga-ken,Male,Below 20,227381.00
+Japan,Saga-ken,Male,20-40,348402.70
+Japan,Saga-ken,Male,40-60,238040.60
+Japan,Saga-ken,Male,Above 60,49724.53
+Japan,Fukui-ken,Female,Below 20,268181.30
+Japan,Fukui-ken,Female,20-40,310467.74
+Japan,Fukui-ken,Female,40-60,329768.97
+Japan,Fukui-ken,Female,Above 60,214289.24
+Japan,Fukui-ken,Male,Below 20,139624.87
+Japan,Fukui-ken,Male,20-40,29382.54
+Japan,Fukui-ken,Male,40-60,69029.33
+Japan,Fukui-ken,Male,Above 60,14151.06
+Japan,Tokushima-ken,Female,Below 20,408541.72
+Japan,Tokushima-ken,Female,20-40,121821.07
+Japan,Tokushima-ken,Female,40-60,238502.30
+Japan,Tokushima-ken,Female,Above 60,220034.20
+Japan,Tokushima-ken,Male,Below 20,141821.54
+Japan,Tokushima-ken,Male,20-40,36222.14
+Japan,Tokushima-ken,Male,40-60,329730.27
+Japan,Tokushima-ken,Male,Above 60,306845.73
+Japan,Kōchi-ken,Female,Below 20,33753.06
+Japan,Kōchi-ken,Female,20-40,593.01
+Japan,Kōchi-ken,Female,40-60,354615.70
+Japan,Kōchi-ken,Female,Above 60,138019.81
+Japan,Kōchi-ken,Male,Below 20,284199.26
+Japan,Kōchi-ken,Male,20-40,130353.85
+Japan,Kōchi-ken,Male,40-60,25279.35
+Japan,Kōchi-ken,Male,Above 60,112768.88
+Japan,Shimane-ken,Female,Below 20,273610.21
+Japan,Shimane-ken,Female,20-40,4594.52
+Japan,Shimane-ken,Female,40-60,247478.58
+Japan,Shimane-ken,Female,Above 60,137257.76
+Japan,Shimane-ken,Male,Below 20,195557.54
+Japan,Shimane-ken,Male,20-40,292886.47
+Japan,Shimane-ken,Male,40-60,276564.19
+Japan,Shimane-ken,Male,Above 60,179370.50
+Japan,Tottori-ken,Female,Below 20,118155.65
+Japan,Tottori-ken,Female,20-40,272901.44
+Japan,Tottori-ken,Female,40-60,124526.46
+Japan,Tottori-ken,Female,Above 60,163773.87
+Japan,Tottori-ken,Male,Below 20,63399.29
+Japan,Tottori-ken,Male,20-40,127940.61
+Japan,Tottori-ken,Male,40-60,272693.65
+Japan,Tottori-ken,Male,Above 60,26601.11
